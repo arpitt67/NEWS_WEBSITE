@@ -7,6 +7,7 @@ Categories: News sorted into various categories for easy navigation.
 Search: Allows users to search for news articles.
 Responsive Design: Ensures the website is usable on various devices.
 **Technologies Used**
+
 **HTML**: For structuring the content.
 **HTML Tags Used**
 <header>: Defines the header section of the webpage.

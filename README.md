@@ -11,6 +11,7 @@ Responsive Design: Ensures the website is usable on various devices.
 
 **HTML**: For structuring the content.
 **HTML Tags Used**
+
 <header>: Defines the header section of the webpage.
 <nav>: Contains the navigation links.
 <main>: The main content area.
